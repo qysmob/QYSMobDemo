@@ -35,7 +35,7 @@
 //Title颜色
 #define kColorTitle kRGB16(0x232323,1)
 //背景色
-#define kColorBackgroundColor  kRGB16(0xF5F5F5,1)
+#define kColorBackgroundColor  kRGB(255,255,255)
 //主题色
 #define kColorTheme kRGB16(0xDD9A38,1)
 //不可点击背景
