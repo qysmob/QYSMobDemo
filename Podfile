@@ -6,5 +6,6 @@ target 'QYSMobSDKDemo' do
   use_frameworks!
 
   # Pods for QYSMobSDKDemo
-  pod 'QYSMobSDK'
+  pod 'QYSMobSDK',:path => './QYSMob'
+  
 end
